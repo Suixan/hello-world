@@ -4,7 +4,10 @@
 #include <string>
 using namespace std;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 954dc9dcbad62a05a47bae7547fbec8695f74165
 #define MAX_SIZE 200
 /*
 获取信息，放入Map中
